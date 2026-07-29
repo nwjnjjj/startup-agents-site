@@ -1,0 +1,18 @@
+{
+  "title": "[STUB] 測試落地頁",
+  "headline": "這是 stub 模式產生的測試頁面",
+  "subheadline": "用來驗證發布流程，不是真實產品內容。",
+  "sections": [
+    {
+      "heading": "為什麼會看到這頁",
+      "body": "系統以 --stub-llm 模式執行。"
+    },
+    {
+      "heading": "下一步",
+      "body": "設定 ANTHROPIC_API_KEY 後改跑真實模式。"
+    }
+  ],
+  "cta_text": "了解更多",
+  "cta_url": "#signup",
+  "price_twd": 0
+}
