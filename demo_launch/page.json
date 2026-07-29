@@ -1,0 +1,18 @@
+{
+  "title": "自動化實驗系統 · 部署驗證",
+  "headline": "這個頁面是由排程系統自動產生並自動上線的",
+  "subheadline": "用來驗證 GitHub Pages 部署路徑真的通了。內容之後會被真實的產品落地頁取代。",
+  "sections": [
+    {
+      "heading": "為什麼有這一頁",
+      "body": "驗證從產生 HTML 到公開網址的整條路徑不需要人工介入。"
+    },
+    {
+      "heading": "認證方式",
+      "body": "使用既有的 gh CLI 認證，系統本身不持有任何密鑰。"
+    }
+  ],
+  "cta_text": "查看原始碼",
+  "cta_url": "https://github.com/nwjnjjj/startup-agents-site",
+  "price_twd": 0
+}
